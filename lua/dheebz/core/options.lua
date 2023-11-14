@@ -17,3 +17,4 @@ vim.opt.textwidth = 80
 -- Set color column to 80
 vim.opt.colorcolumn = '80'
 
+

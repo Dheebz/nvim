@@ -3,6 +3,8 @@ vim.g.mapleader = " "
 
 local keymap = vim.keymap
 
+
+
 -- Window Management 
 keymap.set("n", "<leader>sv", "<C-w>v", { desc = "Split window vertically" }) -- split window vertically
 keymap.set("n", "<leader>sh", "<C-w>s", { desc = "Split window horizontally" }) -- split window horizontally
